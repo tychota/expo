@@ -1,0 +1,19 @@
+.changeset/auth-session-revoke-single-client-auth.md
+  s_4f83d71eaea2f0::t_d76f9e8c44f73c 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d16fca344b42c6955914c616b6de5ee58a0f99a0",
+  "prompts": {},
+  "sessions": {
+    "s_4f83d71eaea2f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84583039-7d69-4da8-b20b-80138bdece22",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tycho Tatitscheff <tychot@bam.tech>"
+    }
+  }
+}
